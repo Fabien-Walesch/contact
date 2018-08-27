@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/FabienWaleschDesign/contact/issues"
   },
-  "homepage": "https://github.com/FabienWaleschDesign/contact#readme"
+  "homepage": "https://github.com/FabienWaleschDesign/contact#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-es6-transpiler": "^1.0.1",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^4.0.1"
+  }
 }
